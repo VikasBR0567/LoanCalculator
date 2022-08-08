@@ -1,0 +1,14 @@
+Social Network Server --- login
+
+                         View users and authorize
+
+                         View all friend request and response
+
+
+Users 			 --- Register and Login
+
+          	         View Your Profile
+ 
+                         Search frinds req and res
+
+           

@@ -1,0 +1,15 @@
+A Data Analytics Approach to the Cybercrime Underground Economy
+
+
+1. Brute force Attack  -- wrong Login
+
+2. Trajon       -- Malware
+
+3. Spam Account -- Unwanted word
+
+4.  Crimeware   -- malware upload
+
+
+
+User Profile Status --- DDOD Attack/Trajon/Spam/Cryme Ware
+
